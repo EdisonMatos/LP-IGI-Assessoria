@@ -126,18 +126,18 @@ const content = {
       miniTag: "ESCRITÓRIO DE ASSESSORIA JURÍDICA EM CUIABÁ - MT",
       title: (
         <h1 className="mb-[16px]">
-          A injustiça não teve a
-          <span className="text-primary"> última palavra</span>
+          Você não está sozinho
+          <span className="text-primary"> na luta</span>
         </h1>
       ),
       subtitle:
-        "Parece o fim, mas é só o começo quando você encontra a IGI Assessoria",
+        "Direitos do trabalhador e do consumidor levados a sério. Pela IGI, por você.",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "Vire o jogo agora",
+      ctaButtonText: "Fale com a IGI agora",
       obsHero: {
         icon: (
           <svg
