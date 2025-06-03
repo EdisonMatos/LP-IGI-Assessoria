@@ -59,8 +59,8 @@ export const infos = {
   domain: "igiassessoria.com.br", // Sem "www"
   phone: {
     ddd: "65",
-    firstPart: "98474", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "8912", // Apenas os 4 últimos números
+    firstPart: "99611", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0156", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
