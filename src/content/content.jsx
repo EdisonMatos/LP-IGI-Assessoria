@@ -59,8 +59,8 @@ export const infos = {
   domain: "igiassessoria.com.br", // Sem "www"
   phone: {
     ddd: "65",
-    firstPart: "98474", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "8912", // Apenas os 4 últimos números
+    firstPart: "99611", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0156", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
@@ -126,12 +126,11 @@ const content = {
       miniTag: "ESCRITÓRIO DE ASSESSORIA JURÍDICA EM CUIABÁ - MT",
       title: (
         <h1 className="mb-[16px]">
-          Você não está sozinho
-          <span className="text-primary"> na luta</span>
+          IGI Assessoria Jurídica <span className="text-primary"></span>
         </h1>
       ),
       subtitle:
-        "Direitos do trabalhador e do consumidor levados a sério. Pela IGI, por você.",
+        "Soluções reais para problemas trabalhistas e de consumo. Aqui, seu direito é prioridade.",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
