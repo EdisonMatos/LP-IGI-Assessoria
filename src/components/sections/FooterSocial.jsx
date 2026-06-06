@@ -79,6 +79,7 @@ export default function FooterSocial({
 
             <div className="flex flex-col gap-y-[16px] desktop1:w-[290px]">
               <MidTextFooter />
+
               <ParagrapfFooter />
               <MotionDivDownToUp>
                 <p className="opacity-90">{content.texts.footerSocialText}</p>

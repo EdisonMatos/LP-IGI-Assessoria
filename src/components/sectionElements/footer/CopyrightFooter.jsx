@@ -4,6 +4,10 @@ import content from "../../../content/content";
 function CopyrightFooter() {
   return (
     <div className="text-center w-full phone2:w-[90%] max-w-[1110px] flex flex-col mb-[48px] phone2:mb-[80px] tablet1:mb-[27px]">
+      <p>
+        Razão Social: Ingrid Candido Vargas Rodrigues Sociedade Individual de
+      </p>
+      <p className="mb-4">Advocacia CNPJ: 54.994.667/0001-86</p>
       <p className="w-full opacity-75">{content.texts.footer.copyrightLine}</p>
       <p>
         <a
